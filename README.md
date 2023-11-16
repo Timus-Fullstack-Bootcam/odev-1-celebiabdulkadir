@@ -1,5 +1,6 @@
 # Ödev-1
 
+
 ## 1. JavaScript Nedir ve Tarihsel Gelişimi
 JavaScript, **web sayfalarını interaktif ve dinamik** hale getirmek için kullanılan bir programlama dilidir. Web geliştirmede önemli bir rol oynar ve çoğu modern web sayfasının temel bileşenlerinden biridir.
 JavaScript'in gelişim süreci aşağıdaki gibi özetlenebilir:
