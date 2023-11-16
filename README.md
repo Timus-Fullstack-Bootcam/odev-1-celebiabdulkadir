@@ -324,7 +324,7 @@ class Kisi {
 }
 const obje6 = new Kisi("Ahmet", 30);
 ```
-##17. 2 elemanlı bir objenin key ve value değerlerinin karakter sayısı ile 2 farklı döngü methodu kullanarak yeni bir obje oluşturunuz
+## 17. 2 elemanlı bir objenin key ve value değerlerinin karakter sayısı ile 2 farklı döngü methodu kullanarak yeni bir obje oluşturunuz
 ```javascript
 const obje = { isim: "Ahmet", meslek: "Mühendis" };
 
